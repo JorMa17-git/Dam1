@@ -18,7 +18,7 @@ def main():
     driver.implicitly_wait(5)  # Espera implícita para que cargue rápido
     
     # Carga la página
-    driver.get("https://wargameserver3.evilgrog.com/profile/index/id/127579/i/PebMjE9UciCXiqKchvbVY7ekyYTu1oVX/h/3316f561dd7d808ce87548f6d4a0a8fb/t/1746665350/linkDefense/c4df1b41aca7ae5334871348473f60f656b855dd")
+    driver.get("https://wargameserver3.evilgrog.com/profile/index/id/109336/i/PebMjE9UciCXiqKchvbVY7ekyYTu1oVX/h/3316f561dd7d808ce87548f6d4a0a8fb/t/1746665350/linkDefense/c4df1b41aca7ae5334871348473f60f656b855dd")
 
     try:
         # Esperamos a que el botón esté presente y hacemos clic
